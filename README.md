@@ -5,7 +5,7 @@ Using the Dataset MIT-BIH was taken from a research paper where all the samples 
 I went through Experiments using the EGRU model until I got the best one and compared it with other models like LSTM and GRU with the same parameters and layers. Comparing the power Consumption, Co2 emmision, time, accuracy and sparsity was the main metrics used for comparison.
 EGRU model has shown significant and better results compared to LSTM and GRU in every aspect.
 
-EGRU model block digram:
+Final form of the EGRU model block digram:
 
 
-![resultsBD1](https://github.com/mohamedghaly1/ECG-Detection-Using-EGRU/assets/102426735/fc8ff6d6-9a80-46b5-85d3-5b3aa4e20de7)
+![resultsBD2white](https://github.com/mohamedghaly1/ECG-Detection-Using-EGRU/assets/102426735/964e972b-fddd-4615-9316-dbff74e2e178)
