@@ -10,4 +10,4 @@ Final form of the EGRU model block digram:
 
 ![resultsBD2white](https://github.com/mohamedghaly1/ECG-Detection-Using-EGRU/assets/102426735/964e972b-fddd-4615-9316-dbff74e2e178)
 
-The Thesis paper of the project [click here](https://github.com/mohamedghaly1/ECG-Detection-Using-EGRU/files/15391549/Mohamed.Ghaly.Bachelor.Thesis.pdf)
+The Thesis paper of the project [click here](https://github.com/mohamedghaly1/ECG-Detection-Using-EGRU/files/15391603/ECG-Detection-Using-EGRU.pdf)
