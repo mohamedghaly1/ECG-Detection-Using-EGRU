@@ -12,7 +12,6 @@ According to the paper by [Subramoney et al.](https://github.com/mohamedghaly1/E
 
 
 
-
 ## Arrhythmia Detection in ECG Using Event Gated Recurrent Unit (EGRU)
 
 I have created a model which can detect Arrhythmia in ECG signals using The Event Gated Recurrent Unit (EGRU).
