@@ -1,14 +1,19 @@
 # ECG-Detection-Using-EGRU
-According to the paper by [Subramoney et al.](https://github.com/mohamedghaly1/ECG-Detection-Using-EGRU/files/15474074/EFFICIENT.RECURRENT.ARCHITECTURES.THROUGH.ACTIVITY.SPARSITY.AND.SPARSE.BACK.PROPAGATION.THROUGH.TIME.pdf)
-) , they have created a new method called Event Gated Recurrent Unit (EGRU) it is an extension of the normal Gated reccurent unit with a gating mechanism that takes care of the efficiency aspect without sacrificing on accuracy.EGRU is a variant of the GRU architecture including a biologically inspired neuron dynamics driven event generation mechanism as shown below from the Subramoney et al. paper , that enables an RNN unit to communicate sparsely and discretely with others.
+
+## EGRU: Event-based Gated Recurrent Unit
+According to the paper by [Subramoney et al.](https://github.com/mohamedghaly1/ECG-Detection-Using-EGRU/files/15474074/EFFICIENT.RECURRENT.ARCHITECTURES.THROUGH.ACTIVITY.SPARSITY.AND.SPARSE.BACK.PROPAGATION.THROUGH.TIME.pdf), they have created a new method called Event Gated Recurrent Unit (EGRU) it is an extension of the normal Gated reccurent unit with a gating mechanism that takes care of the efficiency aspect without sacrificing on accuracy.EGRU is a variant of the GRU architecture including a biologically inspired neuron dynamics driven event generation mechanism as shown below from the [Subramoney et al.](https://github.com/mohamedghaly1/ECG-Detection-Using-EGRU/files/15474074/EFFICIENT.RECURRENT.ARCHITECTURES.THROUGH.ACTIVITY.SPARSITY.AND.SPARSE.BACK.PROPAGATION.THROUGH.TIME.pdf) paper , that enables an RNN unit to communicate sparsely and discretely with others.
 
 
 ![egru-overview](https://github.com/mohamedghaly1/ECG-Detection-Using-EGRU/assets/102426735/c2818957-656c-43c8-90f2-957e863d00e3)
 
+![EvNNPlot_ManimCE_v0 17 2](https://github.com/mohamedghaly1/ECG-Detection-Using-EGRU/assets/102426735/78141783-2e76-4da6-adb5-e47f72607f53)
 
 
-![Uploading EvNNPlot_ManimCE_v0.17.2.gif…]()
 
+
+
+
+## Arrhythmia Detection in ECG Using Event Gated Recurrent Unit (EGRU)
 
 I have created a model which can detect Arrhythmia in ECG signals using The Event Gated Recurrent Unit (EGRU).
 Using the Dataset MIT-BIH was taken from a research paper where all the samples are cropped, downsampled and padded with zeroes if necessary to the fixed dimension of 188 and divided in to training and testing dataset.
