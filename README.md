@@ -1,5 +1,6 @@
 # ECG-Detection-Using-EGRU
-According to the paper by Subramoney et al. [click here](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://openreview.net/pdf?id=lJdOlWg8td) , they have created a new method called Event Gated Recurrent Unit (EGRU) it is an extension of the normal Gated reccurent unit with a gating mechanism that takes care of the efficiency aspect without sacrificing on accuracy.EGRU is a variant of the GRU architecture including a biologically inspired neuron dynamics driven event generation mechanism as shown below from the Subramoney et al. paper , that enables an RNN unit to communicate sparsely and discretely with others.
+According to the paper by Subramoney et al. [Efficient recurrent architectures through activity sparsity and sparse back-propagation through time](https://github.com/mohamedghaly1/ECG-Detection-Using-EGRU/files/15474074/EFFICIENT.RECURRENT.ARCHITECTURES.THROUGH.ACTIVITY.SPARSITY.AND.SPARSE.BACK.PROPAGATION.THROUGH.TIME.pdf)
+) , they have created a new method called Event Gated Recurrent Unit (EGRU) it is an extension of the normal Gated reccurent unit with a gating mechanism that takes care of the efficiency aspect without sacrificing on accuracy.EGRU is a variant of the GRU architecture including a biologically inspired neuron dynamics driven event generation mechanism as shown below from the Subramoney et al. paper , that enables an RNN unit to communicate sparsely and discretely with others.
 
 
 
