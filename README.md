@@ -6,6 +6,8 @@ According to the paper by [Subramoney et al.](https://github.com/mohamedghaly1/E
 
 ![egru-overview](https://github.com/mohamedghaly1/ECG-Detection-Using-EGRU/assets/102426735/c2818957-656c-43c8-90f2-957e863d00e3)
 
+Only needed neurons are activated in feedforword and backword pass other neurons will be deactivated saving energy and time in training and testing a GIF demonstrating this is shown below.
+
 ![EvNNPlot_ManimCE_v0 17 2](https://github.com/mohamedghaly1/ECG-Detection-Using-EGRU/assets/102426735/78141783-2e76-4da6-adb5-e47f72607f53)
 
 
